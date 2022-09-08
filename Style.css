@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#main{
+    margin: 0%;
+    padding-top: 6%;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 13.1%;
+    background-color: rgba(72, 0, 172, 0.692);
+}
+#win{ 
+    padding: 20%;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgb(255, 255, 255);
+    border: 1px;
+    border-radius: 4%;
+}
+#un {
+    
+    border: none;
+    font-size: large;
+}
+#up{
+   
+    border: none;
+    font-size: large;
+}
